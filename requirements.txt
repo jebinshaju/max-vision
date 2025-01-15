@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+gTTS
+firebase-admin
+pydub
+google-cloud-storage
+pillow
+python-multipart
